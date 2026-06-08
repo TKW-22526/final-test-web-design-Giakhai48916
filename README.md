@@ -175,10 +175,10 @@ Sinh viên cần nộp đầy đủ các nội dung sau:
 Sinh viên cập nhật thông tin cá nhân tại đây:
 
 ```text
-Họ và tên:
-Mã số sinh viên:
-Lớp:
-Tên đề tài:
-Liên kết GitHub repository:
-Liên kết GitHub Pages:
+Họ và tên: Trần Gia Khải
+Mã số sinh viên: 110124081
+Lớp:DA24TTA
+Tên đề tài:thiết kế website bán vật phẩm
+Liên kết GitHub repository:https://github.com/Giakhai48916/ketthucmon
+Liên kết GitHub Pages:https://giakhai48916.github.io/ketthucmon/
 ```

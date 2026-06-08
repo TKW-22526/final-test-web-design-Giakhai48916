@@ -1,0 +1,11 @@
+.menu {
+    display: flex;
+    justify-content: center; /* căn giữa */
+    gap: 20px; /* khoảng cách giữa các mục */
+}
+
+.menu ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}

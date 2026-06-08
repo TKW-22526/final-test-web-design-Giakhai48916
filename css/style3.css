@@ -1,0 +1,58 @@
+body{
+    margin:0;
+    font-family:Arial, sans-serif;
+    background:#f5f5f5;
+}
+
+header{
+    background:#0d6efd;
+    color:white;
+    text-align:center;
+    padding:30px;
+}
+
+.product-detail{
+    max-width:1100px;
+    margin:40px auto;
+    display:flex;
+    gap:40px;
+    background:white;
+    padding:30px;
+    border-radius:15px;
+}
+
+.product-image img{
+    width:400px;
+    border-radius:10px;
+}
+
+.product-info{
+    flex:1;
+}
+
+.price{
+    color:#ff5722;
+    font-size:30px;
+    font-weight:bold;
+}
+
+button{
+    padding:12px 25px;
+    border:none;
+    border-radius:8px;
+    cursor:pointer;
+}
+
+.description,
+.contact{
+    max-width:1100px;
+    margin:30px auto;
+    background:white;
+    padding:25px;
+    border-radius:15px;
+}
+
+footer{
+    text-align:center;
+    padding:20px;
+}
